@@ -2,7 +2,7 @@
 
 A high-performance, lightweight native GUI Task Scheduler for Linux that replicates the core behavior and reliability of the Windows Task Scheduler. 
 
-Built completely in **Rust** using the **`egui`** graphical framework, this tool features zero runtime scripting dependencies and compiles into a single, standalone binary file. Unlike traditional `cron` managers, it leverages **systemd timers** to provide advanced scheduling, task tracking, and automatic recovery of missed tasks.
+Built completely in **Rust** using the **`Iced`** graphical framework, this tool features zero runtime scripting dependencies and compiles into a single, standalone binary file. Unlike traditional `cron` managers, it leverages **systemd timers** to provide advanced scheduling, task tracking, and automatic recovery of missed tasks.
 
 ---
 
